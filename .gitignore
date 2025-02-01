@@ -1,0 +1,9 @@
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Allow private files - primarily for testing
+*priv*
